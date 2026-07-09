@@ -227,3 +227,5 @@ def update():
         atualizar_logica_jogo()
     elif estado_jogo == 'victory_sequence':
         atualizar_sequencia_vitoria()
+
+pgzrun.go()
